@@ -8,7 +8,7 @@ Open `index.html` in a browser or use a simple local server.
 
 ## Deploy
 
-This project uses GitHub Pages from the `main` branch and root folder.
+This project uses netlify from the `main` branch and root folder.
 
 ## How I Use This
 
