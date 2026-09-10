@@ -1,9 +1,8 @@
-# ROADMAP
+# Roadmap
 
-1. Define the intent and constraints.
-2. Sketch the system in words.
+1. Write the intent and constraints.
+2. Choose the signal, parameter, and behavior.
 3. Build the smallest working version.
-4. Test the main interaction.
-5. Make changes based on what is clear or unclear.
-6. Polish only after the behavior works.
-7. Deploy and document the final version.
+4. Test it and fix what feels unclear.
+5. Polish once the interaction works.
+6. Deploy and write down what I learned.

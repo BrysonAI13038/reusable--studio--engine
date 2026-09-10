@@ -1,18 +1,21 @@
 # Reusable Studio Engine
 
-Run this command from the project folder:
+A starter template for quickly beginning interactive Canvas projects.
 
-```sh
-python3 -m http.server 8000 --bind 127.0.0.1
-```
+## Run Locally
 
-Open http://127.0.0.1:8000/ in your integrated browser. Keep the terminal
-running while using the preview; press Ctrl+C to stop the server.
+Open `index.html` in a browser or use a simple local server.
 
-The project uses JavaScript modules, so serve it over HTTP instead of opening
-`index.html` as a `file://` URL. Use a browser preview that runs JavaScript.
+## Deploy
 
-You should see a white ring on a dark background. Move the pointer over the
-preview and scroll up to build fracture intensity. Scroll down to lower it.
-Intensity starts at zero, so scrolling down first has no visible effect.
-When scrolling stops, the stored intensity slowly relaxes toward zero.
+This project uses GitHub Pages from the `main` branch and root folder.
+
+## How I Use This
+
+* Write intent and constraints first.
+* Define the signal and behavior.
+* Build the smallest working version.
+* Test and make changes.
+* Polish, deploy, and document.
+
+The current starter uses scroll input to control a fractured/glitching ring.
